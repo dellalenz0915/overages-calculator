@@ -11,12 +11,15 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "14.2.5",
+    "next": "^14.2.31",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
+    "@types/node": "^22.17.1",
+    "@types/react": "^18.3.23",
+    "@types/react-dom": "^18.3.7",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.41",
     "tailwindcss": "^3.4.10",
